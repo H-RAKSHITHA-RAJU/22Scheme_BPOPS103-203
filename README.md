@@ -1,6 +1,7 @@
 # 22Scheme_BPOPS103-203
 Principles of Programming using C-22 Scheme<br>
-
+NOTE: PROGRAM NO. 1,2,5,6,7,8,9,10 & 11 PLS REFER 21_Scheme-21CPL17-27 : "https://github.com/H-RAKSHITHA-RAJU/21scheme_21CPL17-27"
+<br>
 Programming Assignments<br>
 
 1 Simulation of a SimpleCalculator.<br>
